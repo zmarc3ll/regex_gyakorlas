@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("loaded")})();
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{console.log("content loaded"),document.getElementById("nev"),document.getElementById("orszag"),document.getElementById("varos"),document.getElementById("utca"),document.getElementById("iranyitoszam"),document.getElementById("bankkartyaszam"),document.getElementById("kod"),document.getElementById("kartyanev")}))})();
