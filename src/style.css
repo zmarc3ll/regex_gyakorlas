@@ -1,3 +1,16 @@
 body {
     background-color: burlywood;
 }
+#container {
+    padding-top: 300px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.row{
+    padding-top: 10px;
+    margin: auto;
+}
+#fizetes {
+    margin-top: 10px;
+}
